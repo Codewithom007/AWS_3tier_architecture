@@ -8,9 +8,6 @@
 
 - **Database Server**: This is the back-end part that stores all the data for the application. It uses databases like MySQL or PostgreSQL to keep track of information.
 
-Looking for more videos on AWS and DevOps follow me on youtube here [![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&style=flat-square)](https://www.youtube.com/@avizway)
-
-
 
 ![Three-Tier Architecture](https://avinash.s3.amazonaws.com/3tier.png)
 
@@ -99,3 +96,5 @@ In this architecture, we have three main layers:
 
 ### Summary
 This architecture ensures high availability, scalability, and reliability by distributing the load, monitoring instance health, and scaling resources dynamically. The web tier serves the front-end and routes API calls, the application tier handles business logic and interacts with the database, and the database tier provides robust data storage and retrieval.
+
+## Om Bhagat
